@@ -20,3 +20,5 @@ include::events/README.adoc[leveloffset=+1]
 include::security/README.adoc[leveloffset=+1]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+
+
